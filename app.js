@@ -1,4 +1,4 @@
-const amigos = [];
+let amigos = [];
 
 function adicionarAmigo() {
   const input = document.getElementById("amigo");
